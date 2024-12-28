@@ -21,3 +21,8 @@ Para ejecutar este proyecto necesitas:
 
 ---
 
+## **2. Configura la API Key**
+Abre el archivo ConversorAPI.java ubicado en src/com/aluracursos/conversormoneda/.
+Reemplaza "TU_API_KEY" con tu clave de API válida:
+
+private static final String API_KEY = "TU_API_KEY";
